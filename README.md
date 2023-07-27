@@ -1,14 +1,17 @@
+Bahram is a highly motivated tech enthusiast who thrives on learning new skills and staying updated with today's technologies. He considers himself a fast learner, dedicated, passionate, competitive, and goal-oriented individual. With strong organizational and communication skills, He also possesses  excellent leadership qualities.
 
+Bahram's technical expertise lies in Java and Python, and he is well-versed in various other technologies, including HTML, CSS, MySQL, and MongoDB. Additionally, he has experience working with Linux (Ubuntu) and Windows 8/10/11 operating systems.
 
-Bahram is a highly motivated tech enthusiast who likes to learn new skills and stay up to date with today's technologies.
-Bahram is a fast learner, dedicated,passionate,competitive and goal oriented person. He also has very good leadership qualities with strong organizational & communication skills.
+His interests are diverse, with a particular focus on:
+ 
+* Machine Learning
+* Deep Learning 
+* NLP
+* Statistics 
 
-• Proficient in C,C++,Java,and Python.
-• Other technologies used: HTML,CSS,MySQL,MongoDB,React,etc.
-• Operating Systems: Linux(Ubuntu), Windows 7/8/10/11
+He is continually exploring the latest developments in these fields to enhance his knowledge and contribute to cutting-edge projects.
 
-My broad interests as a Computer Science Student are in Machine Learning, Data Science, Deep Learning, Artificial Intelligence & Software Development Part.
-Aside from technology he is a chess player and a loves to travel.
+Beyond technology, He finds joy in the game of chess, and Bahram has a deep passion for traveling, which allows him to broaden his horizons and embrace new experiences.
 
 
 
